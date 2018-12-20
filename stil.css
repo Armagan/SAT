@@ -1,0 +1,12 @@
+
+td				{ font-family: Tahoma; font-size: 10pt }
+td.baslik    { font-family: Tahoma; font-size: 10pt; color: #FFFFFF; background-color: 
+               #AB1836; font-weight: bold }
+td.bbaslik   { font-family: Tahoma; font-size: 12pt; color: #FFFFFF; background-color: 
+               #AB1836; font-weight: bold }
+td.kbaslik   { font-family: Tahoma; font-size: 10pt; color: #FFFFFF; background-color: 
+               #AB1836}
+td.mevcut		{font-family: Tahoma; font-size: 12pt; color: #FF9900; background-color: 
+               #AB1836; font-weight: bold }       
+a            { text-decoration: none; color: #FFFFFF }
+a.renkli     { text-decoration: none; color: #AB1836; font-size: 10pt }
